@@ -17,6 +17,7 @@ public class UsersDAO extends BaseDAO {
 	private JdbcTemplate jdbcTemplate;
 
 	// them user vao DB
+	
 	public int addAccount(Users user) {
 
 		StringBuffer sql = new StringBuffer();
