@@ -27,7 +27,7 @@
 
 			<a class="shopBtn btn-block">Sản Phẩm Mới Ra Mắt <br></a> <br>
 			<br>
-			<ul class="nav nav-list promowrapper">
+			<!--<ul class="nav nav-list promowrapper">
 				<c:forEach var="item" items="${ viewProductsNew }" varStatus="loop">
 					<li>
 						<div class="thumbnail">
@@ -49,7 +49,7 @@
 					</li>
 					<li style="border: 0">&nbsp;</li>
 				</c:forEach>
-			</ul>
+			</ul>  -->
 		</div>
 		<div class="span9">
 			<div class="well np">
